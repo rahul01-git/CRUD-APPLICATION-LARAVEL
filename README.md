@@ -1,0 +1,2 @@
+# CRUD-APPLICATION-LARAVEL
+A basic CRUD application created using LARAVEL FRAMEWORK
